@@ -1,0 +1,5 @@
+requests
+pandas
+pyarrow
+lxml
+# beautifulsoup4 will be needed for content parsing later, but not for phase 1 sitemap-only 

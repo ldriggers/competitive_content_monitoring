@@ -1,0 +1,15 @@
+{
+  "domains": [
+    {
+      "name": "Bankrate",
+      "domain": "bankrate.com",
+      "sitemap_url": "https://www.bankrate.com/sitemap.xml"
+    },
+    {
+      "name": "NerdWallet",
+      "domain": "nerdwallet.com",
+      "sitemap_url": "https://www.nerdwallet.com/sitemap.xml"
+    }
+  ],
+  "user_agent": "CompetitorSitemapMonitor/1.0 (+http://your-repo-url-here)"
+} 
